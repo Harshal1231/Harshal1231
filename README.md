@@ -41,7 +41,3 @@
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Harshal1231&show_icons=true&theme=chartreuse-dark" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Harshal1231&theme=blue-green" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshal1231&theme=tokyonight" align="center" />
-</p>
